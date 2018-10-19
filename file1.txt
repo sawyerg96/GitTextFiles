@@ -1,4 +1,4 @@
 This is my first sentence.
 This is my second sentence.
 final solo
-this is the fist sentance writing working in my branch
+this is the fist cat writing working in my branch
